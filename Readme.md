@@ -1,8 +1,8 @@
-#Documentación
+# Documentación
 
 ----------
 
-##1. Generando la documentación con phpDocumentor
+## 1. Generando la documentación con phpDocumentor
 
 Primero que nada, descargamos la versión más reciente de phpDocumentor mediante este [</i> enlace](https://github.com/phpDocumentor/phpDocumentor2/releases/download/v2.9.0/phpDocumentor.phar), dicho archivo lo pondremos dentro de la carpeta raíz del proyecto para poder acceder fácilmente a él.
 
@@ -30,7 +30,7 @@ Si todo está en orden, nuestros archivos se generaron en la carpeta que especif
 
 ----------
 
-##2. Generando la documentación con Sami
+## 2. Generando la documentación con Sami
 
 Sami es una alternativa a phpDocumentor, y se usa de manera bastante similar.
 
