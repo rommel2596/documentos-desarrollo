@@ -1,5 +1,5 @@
 ### Manual de Usuario
-#Compensación Externa
+# Compensación Externa
 
 ---
 
